@@ -1,11 +1,13 @@
 {
   "name": "state-of-nature-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple and subtle syntax theme inspired by the beauty of nature.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "nature",
+    "simple"
   ],
   "repository": "https://github.com/atom/state-of-nature-syntax",
   "license": "MIT",
